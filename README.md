@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is ONTOR
+#### Full name: Nahid Shahriare Khan Ontor.
+![Full name: Nahid Shahriare Khan Ontor.](https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/118041567_1187905978275071_2679346909625434151_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_ohc=3bHeAwKyHXAAX-IjW4D&_nc_oc=AQmw7hG5Ulru-iuwWMOMzG1HRx31LP0OqU7ilIFMLUd2bDwW_ho0wBO9yj94czYCKjs&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_S3jo3UnZ7HAhJl7XOoAqchYPH_DppjQg4JvTmojfpKQ&oe=6226A308)
 
-<!--
-**nskontor/nskontor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student. Learning web application development.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about HTML 
+- 📫 How to reach me: Facebook 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nskontor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nsk.ontor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC7px7XCSwlYDwMHit7O-arA%3Ffbclid%3DIwAR1r9MJ1w7-7Fxj3tEpieoCD-qEWJLbn7WWdA_khcY-KlTBLOfBq2a9xq3I&h=AT1Y3WMf8ieJjvBdlG03Wa3jQ7U9tCPmdjNRTCEdYk2RxxHWfdqRxZ7O8XED9BBoQk3naEnUwLUDrUJGq5X4JgaTsnQxWG0C7o5Zjbvi7jgxgERAoXU3vqE-gxW3kXVNk3QFRA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](nskontor.blogspot.com)  
+
